@@ -28,24 +28,24 @@
 
 ## 📱 Mobil Uygulama Ekranları
 
-### 1️⃣ Ana Sayfa
-- Eğitimlere, güncellemelere ve kısa yollara hızlı erişim.
+### 🏠 Ana Sayfa
+> Kullanıcılar eğitim içeriklerine, güncel etkinliklere ve kişisel gelişim araçlarına buradan ulaşabilir. GNÇZone'un sunduğu tüm imkanlara kolayca erişim sağlanır.
 
 ![image](https://github.com/user-attachments/assets/91f220da-caa5-4955-ad73-d2c71bf1c16a)
 
 
 ---
 
-### 2️⃣ Bootcamp Sayfası
-- Canlı video-chat, el kaldırma, mikrofon ve kamera kontrolü özellikleri.
+### 🎥 Bootcamp Canlı Oturumu
+> Kullanıcılar, canlı eğitimlere katılarak sektörden uzmanlar ile birebir etkileşime geçebilir ve teknik becerilerini artırabilir. Canlı oturumlar sayesinde uygulamalı öğrenim imkanı sunulur.
 
 ![image](https://github.com/user-attachments/assets/218d03c4-1099-43e4-a440-23d138ec7725)
 
 
 ---
 
-### 3️⃣ Community Sayfası
-- Çeşitli topluluklara katılım ve iletişim imkânı.
+### 🌐 Topluluklar (Community) Sayfası
+> Kullanıcılar ilgi alanlarına göre teknoloji topluluklarına katılarak networking yapabilir, bilgi paylaşımında bulunabilir ve projeler geliştirebilir.
 
 ![image](https://github.com/user-attachments/assets/639c48ce-1752-4301-b295-a35164a56718)
 
@@ -92,4 +92,8 @@ GNÇZone, klasik eğitim portallarından farklı olarak:
 > GNÇZone sürekli gelişen bir platformdur. Geri bildirimlerinizi bizimle paylaşabilir veya projeye katkı sağlamak için iletişime geçebilirsiniz.
 
 ---
+## 🙏 Teşekkürler
+
+Projemizi incelediğiniz için teşekkür ederiz!  
+Geleceğin teknoloji liderlerini birlikte yetiştiriyoruz. 🚀
 
