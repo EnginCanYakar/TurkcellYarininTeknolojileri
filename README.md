@@ -24,7 +24,8 @@ Kullanıcılar eğitimlere erişebilir, bootcamp videoları izleyebilir, toplulu
 
 ---
 
-### 🎥 2. Bootcamp İzleme Sayfası (Video + Chat)
+### ![image](https://github.com/user-attachments/assets/b5e5158a-8692-412f-83e3-b581c8571b34)
+
 
 **Açıklama:**
 - Belirli bir konuda düzenlenen Bootcamp videolarını izlemek için tasarlanmış özel bir sayfa.
