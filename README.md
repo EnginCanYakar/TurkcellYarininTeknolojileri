@@ -1,186 +1,95 @@
-# 🚀 Geleceği Yazanlar: GNÇ ZONE Platformu
+# 🚀 GNÇZone
 
-## 📂 Proje Adı
-GNÇ ZONE
-
-## 🏷️ Kategori
-İnsan İçin Teknoloji
+**Yarının Teknoloji Liderleri - Turkcell Yarışması Projemiz**
 
 ---
 
 ## 🎯 Proje Amacı
-Geleceği Yazanlar Platformu, kendini geliştirmek isteyen bireylerin teknoloji, kariyer ve kişisel gelişim alanlarında erişilebilir, etkileşimli ve ödüllendirici bir deneyim yaşamasını hedeflemektedir.  
-Genç yetenekler, bu platform sayesinde yalnızca eğitim almakla kalmayacak, aynı zamanda iş dünyasına dair pratik deneyimler kazanarak kariyerlerini bilinçli bir şekilde inşa etme fırsatı bulacaklardır.
+
+**GNÇZone**, bireylerin hem teknik hem de kişisel becerilerini geliştirmesine, kariyerlerine bilinçli adımlar atmasına yardımcı olan etkileşimli bir ekosistemdir.
+
+- 📚 Eğitim Modülleri
+- 🧠 Yapay Zeka Destekli Kariyer Planlama
+- 🕹️ Oyunlaştırma Sistemi
+- 🧑‍🤝‍🧑 Networking ve Topluluklar
+- 🎓 Bootcamp ve Hackathon Etkinlikleri
 
 ---
 
-## 📝 Proje Tanımı
-Klasik eğitim portallarının ötesine geçerek:
+## ✨ Proje Özellikleri
 
-- Teknik beceriler kazandıran
-- Kişisel gelişimi destekleyen
-- Networking fırsatları sunan
-- Kariyer desteği sağlayan  
-mobil ve masaüstü uyumlu yenilikçi bir platform geliştirilmiştir.
-
-Bu proje, **Geleceği Yazanlar** ekosistemine yeni bir ivme kazandırmayı ve daha geniş bir kullanıcı kitlesine ulaşmayı amaçlamaktadır.
+- **Mobil ve Masaüstü Uyumlu**: Her cihazdan erişim.
+- **Offline Eğitim İmkanı**: İçerikler indirilebilir.
+- **Yapay Zeka Rehberliği**: Kişisel gelişim için AI destekli öneriler.
+- **Oyunlaştırma**: Rozetler, görevler ve ödüller.
+- **Sosyal Etkileşim**: Sohbet odaları ve topluluklar.
 
 ---
 
-## 🧩 Platformun Temel Bileşenleri
+## 📱 Mobil Uygulama Ekranları
 
-### 🎓 Eğitim Modülü
-- **Mobil ve Masaüstü Erişimi:** Geleceği Yazanlar eğitimlerine her yerden ulaşım.
-- **Kişisel Gelişim Eğitimleri:** Liderlik, iletişim, problem çözme, zaman yönetimi gibi soft skill eğitimleri.
-- **Başarı Belgesi:** Eğitimlerin sonunda mini sınavlar ve sertifika alma imkanı.
-- **Eğitimlere Erişim:** Önceden kayıt edilmiş eğitimler ve dokümanlara erişim.
+### 1️⃣ Ana Sayfa
+- Eğitimlere, güncellemelere ve kısa yollara hızlı erişim.
+
+![image](https://github.com/user-attachments/assets/91f220da-caa5-4955-ad73-d2c71bf1c16a)
+
 
 ---
 
-### 💼 Kariyer ve İş İmkanları
-- **Staj ve İş İlanları:**  
-  - İlanlara başvuru öncesi kısa platform içi sınavlar ile ön eleme.
-  - Başarılı adaylar doğrudan mülakat aşamasına geçer.
+### 2️⃣ Bootcamp Sayfası
+- Canlı video-chat, el kaldırma, mikrofon ve kamera kontrolü özellikleri.
 
-- **Simülasyon Mülakatlar (AI Destekli):**  
-  - Yapay zeka destekli mülakat pratikleri.
+![image](https://github.com/user-attachments/assets/218d03c4-1099-43e4-a440-23d138ec7725)
 
-- **Kariyer Path Önerileri (AI Destekli):**  
-  - Kullanıcının yetkinliklerine göre kişisel kariyer ve öğrenme planları oluşturma.
 
 ---
 
-### 🧑‍💻 Networking ve Topluluklar
-- **Sohbet Odaları:** Sesli ve yazılı sohbet alanları.
-- **Topluluklar:**  
-  - İlgi alanlarına göre gruplar ("Yazılım", "Siber Güvenlik", "Yapay Zeka", "Oyun Geliştirme" vb.)
+### 3️⃣ Community Sayfası
+- Çeşitli topluluklara katılım ve iletişim imkânı.
+
+![image](https://github.com/user-attachments/assets/639c48ce-1752-4301-b295-a35164a56718)
+
 
 ---
 
-### 🚀 Bootcamp ve Hackathon Alanı
-- **Bootcamp:**  
-  - Belirli aralıklarla düzenlenen eğitimler.
-  - Başarılı katılımcılara sertifika ve mobil internet GB ödülü.
+## 🔥 Özgünlük
 
-- **Hackathonlar:**  
-  - Takım kurarak gerçek dünya problemlerine çözüm üretme yarışmaları.
-
----
-
-### 🏆 Gamification ve Ödüller
-- **Haftalık Görevler:**  
-  - Örnek: "3 eğitim tamamla", "5 kullanıcıya yardım et", "1 bootcamp bitir".
-- **Ödüller:**  
-  - Belirli puanlarla mobil GB, eğitim bursları, özel etkinlik davetleri gibi ödüller.
+GNÇZone, klasik eğitim portallarından farklı olarak:
+- Aktif öğrenme modeli sunar.
+- AI ile kişiye özel kariyer yolu çizer.
+- Oyunlaştırma ile motivasyonu artırır.
+- Topluluklarla sosyal öğrenmeyi destekler.
 
 ---
 
-### 🤝 Mentorluk Sistemi
-- **Temel Mentorluk:** Her kullanıcıya açık.
-- **Premium Mentorluk:**  
-  - Daha fazla mentorluk seansı.
-  - Profesyonel bireylerle birebir görüşme imkanları.
-  - Sadece platform içi ve premium kullanıcılara özel.
+## 🌱 Sürdürülebilirlik ve Etki
+
+- Erişimi kolaylaştırır ve eğitimi demokratikleştirir.
+- KVKK uyumlu veri güvenliği standartlarına sahiptir.
+- Uzun vadede büyüyen bir eğitim ekosistemi hedeflenmektedir.
 
 ---
 
-### 📰 Teknoloji Haberleri
-- **Güncel İçerikler:**  
-  - Yapay zeka, 5G, IoT gibi trendler hakkında kısa makaleler ve güncel bilgiler.
+## 🛠️ Kullanılan Teknolojiler
+
+- **Mobil Geliştirme:** Swift (iOS) & Kotlin (Android) | Alternatif: Flutter
+- **Web Geliştirme:** React.js / Next.js
+- **Backend:** Python (AI modülleri) + Bulut Tabanlı Çözümler (Firebase, AWS, Supabase)
 
 ---
 
-## 🛠️ Platform Özellikleri
-- 📱 **Mobil Uygulama:** Android ve iOS uyumlu.
-- 🖥️ **Masaüstü Web Uygulaması.**
-- ⚙️ **Offline Eğitim Modülü:** Eğitimleri indirip internet olmadan izleme.
-- 🔔 **Bildirimler:** Görev hatırlatmaları, etkinlik duyuruları.
+## 👥 Ekip
+
+- **Engin Can Yakar**
+- **Velican Meriç Aktaş**
+- **Arif Emre Özdoğar**
+- **Sena Bitik**
 
 ---
 
-## 🎯 Kullanıcılar İçin Sağlayacağı Faydalar
-- Teknik ve kişisel gelişim imkanı.
-- Gerçek iş/staj deneyimlerine hazırlık.
-- Aktif topluluklarla sürekli iletişim ve sosyalleşme.
-- Kendine özel kariyer rotası oluşturma.
-- Eğitimleri uygulamalı ve yarışmalı şekilde pekiştirme fırsatı.
+## 📌 Nasıl Katkıda Bulunabilirsiniz?
+
+> GNÇZone sürekli gelişen bir platformdur. Geri bildirimlerinizi bizimle paylaşabilir veya projeye katkı sağlamak için iletişime geçebilirsiniz.
 
 ---
-
-## 🏢 Turkcell İçin Sağlayacağı Katkılar
-- **Genç ve Aktif Kullanıcı Kitlesi:** Sürekli etkileşimde olan bir genç kullanıcı ağı.
-- **Geleceğin Teknoloji Liderlerini Yetiştirme:** Ekosisteme değerli bireyler kazandırılması.
-- **Marka Sadakati:** Genç ve teknolojiye yatkın kitleyle güçlü bağlar kurulması.
-- **Özel Eğitim ve Etkinlik İşbirlikleri:** Sponsorlu eğitimler, seminerler ve hackathonlar ile gelir oluşturulması.
-- **Premium Mentorluk Gelişmiş Seçenekleri:**  
-  - Daha fazla seans,
-  - Birebir mentorluk,
-  - Özel profesyonellerle eşleşme gibi avantajlar.
-
----
-
-## 💡 İlham Kaynakları ve İleri Seviye Özellik Önerileri
-- **Coursera Eğitim Takip Sistemi:**  
-  - AI destekli eğitim takip sistemi.
-  - Kullanıcı haftalık çalışma takvimi oluşturabilir.
-  - Haftalık hatırlatmalar ve ilerleme raporları.
-
----
-
-## 📸 Proje Görselleri ve Açıklamaları
-
-## ![image](https://github.com/user-attachments/assets/c173c9c2-f0af-46b5-9ec6-df96982d5059)
-
-
-
-### 🏠 1. Ana Sayfa (Eğitimler, İçerikler, Hızlı Erişim)
-
-**Açıklama:**
-- Kullanıcının ilk karşılaştığı alan.
-- Slider ile yeni eğitimler, etkinlikler ve duyurular sunulur.
-- "Kaldığın Yerden Devam Et" bölümü ile yarım kalan eğitimlere hızlı erişim sağlar.
-- Hızlı erişim kartları ile Eğitimler, Topluluk, Bootcamp gibi bölümlere doğrudan geçiş yapılabilir.
-
-**Faydalar:**
-- Kullanıcı deneyimini hızlandırır.
-- Eğitim motivasyonunu artırır.
-- Platform içi etkileşimi artırır.
-
----
-
-### ![image](https://github.com/user-attachments/assets/b5e5158a-8692-412f-83e3-b581c8571b34)
-
-### 🎥 2. Bootcamp İzleme Sayfası (Video + Chat)
-**Açıklama:**
-- Belirli bir konuda düzenlenen Bootcamp videolarını izlemek için tasarlanmış özel bir sayfa.
-- Video ekranının yanında canlı chat bölmesi bulunur.
-- Katılımcılar eğitim sırasında birbirleriyle iletişim kurabilir, sorular sorabilir.
-
-**Faydalar:**
-- Video izlerken aktif katılım ve topluluk hissi yaratır.
-- Eğitimlerin daha etkileşimli ve akılda kalıcı olmasını sağlar.
-
----
-
-![image](https://github.com/user-attachments/assets/00e699c3-1c74-4121-9dcc-25a81a644345)
-
-### 🧑‍🤝‍🧑 3. Topluluklar (Community) Sayfası
-
-**Açıklama:**
-- Kullanıcılar farklı ilgi alanlarına sahip toplulukları görebilir.
-- "Yapay Zeka", "Mobil Uygulama Geliştirme", "Siber Güvenlik" gibi çeşitli topluluklar listelenir.
-- İstediğin topluluğa tıklayarak katılabilir veya sohbet başlatabilirsin.
-
-**Faydalar:**
-- Kullanıcıların networking yapmasına olanak tanır.
-- Ortak ilgi alanlarında bilgi paylaşımı ve yardımlaşmayı destekler.
-- Platformun sosyal yönünü güçlendirir.
-
----
-
-# ✨ Teşekkürler
-Bu projeyi incelediğin için teşekkür ederiz!  
-Her türlü öneri, katkı ve geri bildirime açığız. 🚀
-
-
 
