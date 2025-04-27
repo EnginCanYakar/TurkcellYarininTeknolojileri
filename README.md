@@ -6,7 +6,8 @@ Kullanıcılar eğitimlere erişebilir, bootcamp videoları izleyebilir, toplulu
 
 ---
 
-## 📸 Uygulama Sayfaları ve Açıklamaları
+## ![image](https://github.com/user-attachments/assets/4ab1e13b-fb66-42a8-a738-74dc159de21c)
+
 
 ### 🏠 1. Ana Sayfa (Eğitimler, İçerikler, Hızlı Erişim)
 
