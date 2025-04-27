@@ -6,7 +6,8 @@ Kullanıcılar eğitimlere erişebilir, bootcamp videoları izleyebilir, toplulu
 
 ---
 
-## ![image](https://github.com/user-attachments/assets/4ab1e13b-fb66-42a8-a738-74dc159de21c)
+## ![image](https://github.com/user-attachments/assets/c173c9c2-f0af-46b5-9ec6-df96982d5059)
+
 
 
 ### 🏠 1. Ana Sayfa (Eğitimler, İçerikler, Hızlı Erişim)
@@ -26,7 +27,7 @@ Kullanıcılar eğitimlere erişebilir, bootcamp videoları izleyebilir, toplulu
 
 ### ![image](https://github.com/user-attachments/assets/b5e5158a-8692-412f-83e3-b581c8571b34)
 
-
+### 🎥 2. Bootcamp İzleme Sayfası (Video + Chat)
 **Açıklama:**
 - Belirli bir konuda düzenlenen Bootcamp videolarını izlemek için tasarlanmış özel bir sayfa.
 - Video ekranının yanında canlı chat bölmesi bulunur.
@@ -37,6 +38,8 @@ Kullanıcılar eğitimlere erişebilir, bootcamp videoları izleyebilir, toplulu
 - Eğitimlerin daha etkileşimli ve akılda kalıcı olmasını sağlar.
 
 ---
+
+![image](https://github.com/user-attachments/assets/00e699c3-1c74-4121-9dcc-25a81a644345)
 
 ### 🧑‍🤝‍🧑 3. Topluluklar (Community) Sayfası
 
